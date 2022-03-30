@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Kyse753
+- 🌱 I’m currently learning C++, Java and Phyton
